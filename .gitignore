@@ -1,26 +1,2 @@
-# Ignorar archivos/directorios específicos
-add-google-cloud-ops-agent-repo.sh
-bin/
-boot/
-dev/
-etc/
-home/
-lib/
-lib64/
-lost+found/
-media/
-opt/
-proc/
-root/
-run/
-sbin/
-srv/
-stderr
-stdout
-sys/
-tmp/
-usr/
-
-# ⚠️ NO ignorar var y mnt
-!var/
-!mnt/
+code/
+files/
