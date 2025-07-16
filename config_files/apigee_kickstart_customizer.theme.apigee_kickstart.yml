@@ -1,7 +1,7 @@
 _core:
   default_config_hash: UZ14R30BmstveSEavRdJkoSCvUqMZLUV_NRRghASSwg
 values:
-  '--ak-header-color-bg': '#35eb81'
+  '--ak-header-color-bg': '#e51783'
   '--ak-header-color': '#ffffff'
   '--ak-footer-color-bg': '#505050'
   '--ak-footer-color': '#fcfcfc'
